@@ -18,3 +18,8 @@ let b
 
   
 }
+
+function sub(){
+
+  let res
+}

@@ -10,5 +10,7 @@ return 0
 
 function add(){
 
+  let a
+  let b
   
 }

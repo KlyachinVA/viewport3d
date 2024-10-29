@@ -1,5 +1,5 @@
 function a(){
-
+let isFinish = false
 }
 
 function b(){
